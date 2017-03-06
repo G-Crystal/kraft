@@ -1,6 +1,44 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
 
+$break-small: 320px;
+$break-medium: 480px;
+$break-large: 768px;
+
+@mixin respond-to($media) {
+    @if $media == handhelds {
+        @media only screen and (max-width: #{$break-large - 1}) { @content; }
+    }
+    @else if $media == ex-small-screens {
+        @media only screen and (min-width: #{$break-small}) and (max-width: #{$break-medium - 1}) { @content; }
+    }
+    @else if $media == small-screens {
+        @media only screen and (min-width: #{$break-medium}) and (max-width: #{$break-large - 1}) { @content; }
+    }
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
+
+    .header-div {
+        .navbar-header {
+            .logo-div {
+                height: 80px;
+                line-height: 80px;
+
+                span {
+                    color: #10578a;
+                    font-size: 18px;
+                }
+            }
+        }
+
+        .header-nav {
+            float: right;
+            
+            @include respond-to(small-screens) {
+                float: left;
+            }
+        }
+    }
 }
 
