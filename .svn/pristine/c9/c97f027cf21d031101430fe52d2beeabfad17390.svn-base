@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://jasonsawtelle@gitlab.com/jasonsawtelle/WR0217_KFS_CAEN_021717.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	sslVerify = true
+	gtServiceAccountIdentifier = 674ec1d3291438b1b94cb69efba35c51950e2d4504a28a725b001fee153d9326
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
