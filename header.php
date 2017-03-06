@@ -16,14 +16,14 @@
 				</button>
                 <div class="logo-div">
                     <a class="navbar-brand" href="/"><img src="<?php echo IMAGE_URL; ?>/logo.png" alt="<?php echo SITE_TITLE; ?>" title="<?php echo SITE_TITLE; ?>" border="0" /></a>
-                    <span class="col-hidden-sm">|&nbsp;<?php echo LOGO_TITLE;?></span>
+                    <span class="hidden-sm hidden-xs">|&nbsp;<?php echo LOGO_TITLE;?></span>
                 </div>
 			</div>
 
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <div>
-                    <ul class="nav navbar-nav">
+                <div class="row">
+                    <ul class="nav navbar-nav header-nav">
                         <li><a href="#"><?php echo OFFERS;?></a></li>
                         <li><a href="#"><?php echo RECIPE_BOX;?></a></li>
                     <?php if (isLoggedIn()) { ?>
@@ -39,12 +39,10 @@
                         <li><a class="menu" data-toggle="modal" href="#signupModal"><?php echo SIGN_UP; ?></a></li>
                     <?php } ?>
                     </ul>
-                </div>
-				
-                <div>
+
                     <form name="searchfrm" id="searchfrm" class="navbar-form navbar-left" action="<?php echo SITE_URL; ?>search.php" method="get" autocomplete="off">
                         <div class="form-group">
-                            <input type="text" id="searchtext" name="searchtext" class="form-control" onKeyPress="ajaxsearch(this.value)" value="<?php echo @$stext; ?>" placeholder="<?php echo CBE_SEARCH_MSG; ?>">
+                            <input type="text" id="searchtext" name="searchtext" class="form-control" onKeyPress="ajaxsearch(this.value)" value="<?php echo @$stext; ?>" placeholder="<?php echo SEARCH_MSG; ?>">
                             <input type="hidden" name="action" value="search" />
                         </div>
                         <button type="submit" class="btn btn-default">Submit</button>
