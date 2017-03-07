@@ -121,7 +121,6 @@ define("sautéed_peppers_and_onions", "sautéed peppers and onions");
 define("Kraft_Cheez_Whiz", "<em>Kraft Cheez Whiz</em>");
 
 define("California_Dreamin", "California Dreamin’");
-define("Cracker_Barrel_Mild_Cheddar_Slice", "<em>Cracker Barrel</em> Mild Cheddar Slice");
 define("mashed_avocado", "mashed avocado");
 
 define("Brie_Strawberry", "Brie & Strawberry");
@@ -142,5 +141,10 @@ define("caramelized_onions", "caramelized onions");
 define("horseradish_mayo", "horseradish mayo");
 
 /* Article 7 */
+
+define("THE_BEST_BAR_BITE", "<em>THE BEST</em> BAR BITE");
+define("This_Grilled_Cheese_Tomato_Soup_Appetizer_is_perfect_on_your_snacks_or_appetizer_menu_or_right_at_home_for_catered_events", "This <u>Grilled Cheese & Tomato Soup Appetizer</u> is perfect on your snacks or appetizer menu, or right at home for catered events.");
+
+/* Article 8 */
 
 define("", "");

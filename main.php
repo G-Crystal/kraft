@@ -119,17 +119,17 @@
             <div class="main-gadget-2 display-table col-xs-12">
                 <div class="vertical-middle display-table-cell">
                     <div class="text-size-30">
-                        <img class="pan-img hidden-xs" src="<?php echo IMAGE_URL; ?>/cheese.png" border="0" />
+                        <img class="hidden-xs" src="<?php echo IMAGE_URL; ?>/cheese.png" border="0" />
                         <span class="text-red"><b><em><?php echo cheese;?></em></b></span>
                         <span><?php echo IS_EVERYTHING;?></span>
                     </div>
                     <div class="display-table">
-                        <div class="display-table-cell text-red text-size-48"><strong><?php echo percent77;?></strong></div>
+                        <div class="display-table-cell text-red text-size-48"><b><?php echo percent77;?></b></div>
                         <div class="display-table-cell vertical-middle"><?php echo of_Canadian_consumers_say_cheese_quality_is_important_in_creating_a_good_sandwich;?></div>
                     </div>
                 </div>
                 <div class="display-table-cell">
-                    <img class="pan-img hidden-xs" src="<?php echo IMAGE_URL; ?>/stamp.png" border="0" />
+                    <img class="hidden-xs" src="<?php echo IMAGE_URL; ?>/stamp.png" border="0" />
                 </div>
             </div>
         </div>
@@ -235,6 +235,24 @@
         </div>
 
         <div id="section-8" class="col-xs-12">
+            <div class="main-gadget-3 display-table">
+                <div class="display-table-cell">
+                    <img class="hidden-xs" src="<?php echo IMAGE_URL; ?>/grilled_cheese.png" border="0" />
+                </div>
+                <div class="vertical-middle display-table-cell">
+                    <div class="text-size-30">
+                        <span class="text-red"><b><?php echo THE_BEST_BAR_BITE;?></b></span>
+                        <span><?php echo IS_EVERYTHING;?></span>
+                        <img class="hidden-xs" src="<?php echo IMAGE_URL; ?>/escalon_logo.png" border="0" />
+                    </div>
+                    <div class="display-table">
+                        <div class="text-size-18"><?php echo This_Grilled_Cheese_Tomato_Soup_Appetizer_is_perfect_on_your_snacks_or_appetizer_menu_or_right_at_home_for_catered_events;?></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="section-9" class="col-xs-12">
         </div>
     </div>
 </div>

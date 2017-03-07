@@ -248,6 +248,21 @@ body {
                     }
                 }
             }
+
+            #section-8 {
+                margin-bottom: 15px;
+
+                .main-gadget-3 {
+                    background-color: #d7deea;
+                    width: 100%;
+
+                    img {
+                        box-shadow: 1px 2px 2px 1px grey, 2px 3px 3px 0 grey;
+                        margin-top: -5px;
+                        margin-bottom: -tpx;
+                    }
+                }
+            }
         }
     }
 }
