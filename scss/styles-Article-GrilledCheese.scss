@@ -35,9 +35,22 @@ body {
         .header-nav {
             font-size: 12px;
             float: right;
+            line-height: 40px;
             
             @include respond-to(small-screens) {
                 float: left;
+            }
+
+            span {
+                padding: 10px 5px;
+            }
+        }
+
+        .navbar-form {
+            float: right !important;
+            
+            @include respond-to(small-screens) {
+                float: left !important;
             }
         }
     }
