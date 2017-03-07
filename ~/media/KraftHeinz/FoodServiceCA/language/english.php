@@ -35,7 +35,7 @@ define("They_also_love_discovering_new_versions_that_incorporate_modern_flavour_
 define("Moroccan_Chicken_Grilled_Cheese", "Moroccan Chicken Grilled Cheese");
 define("APRIL", "APRIL");
 define("IS_NATIONAL", " IS NATIONAL");
-define("GRILLED_CHEESE", "GRILLED CHEESE");
+define("GRILLED_CHEESE", "GRILLED CHEESE ");
 define("MONTH", "MONTH");
 define("Up_your_menu_offerings_with_these_unique_twists", "Up your menu offerings with these unique twists.");
 define("", "");

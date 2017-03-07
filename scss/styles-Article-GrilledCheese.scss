@@ -81,9 +81,20 @@ body {
 
             .main-gadget-1 {
                 background-color: #faeee4;
+                margin: 20px 0;
 
                 .grilled_title {
-                    font-size: 35px;
+                    font-size: 30px;
+                }
+
+                .grilled_description {
+                    font-size: 16px;
+                }
+
+                .pan-img {
+                    position: relative;
+                    top: -115px;
+                    float: right;
                 }
             }
         }

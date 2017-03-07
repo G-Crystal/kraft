@@ -3,7 +3,7 @@
 ?>
 
 <div class="main-div">
-    <div class="content-div row">
+    <div class="content-div">
         <div id="section-1 col-xs-12">
             <div class="row">
                 <div class="col-sm-6 col-xs-12">
@@ -34,14 +34,15 @@
             <div class="main-gadget-1">
                 <div class="grilled_title"><span><b><?php echo APRIL;?></b><?php echo IS_NATIONAL;?></span></div>
                 <div class="grilled_title"><span class="text-yellow"><?php echo GRILLED_CHEESE;?></span><span><?php echo MONTH;?></span></div>
-                <div><span><?php echo Up_your_menu_offerings_with_these_unique_twists;?></span></div>
-            </div>
-            <div class="">
-                <img class="" src="<?php echo IMAGE_URL; ?>/pan.png" border="0" />
+                <div class="grilled_description"><span><?php echo Up_your_menu_offerings_with_these_unique_twists;?></span></div>
+                <img class="pan-img hidden-xs" src="<?php echo IMAGE_URL; ?>/pan.png" border="0" />
             </div>
         </div>
 
         <div id="section-3 col-xs-12">
+        </div>
+
+        <div id="section-4 col-xs-12">
         </div>
     </div>
 </div>
