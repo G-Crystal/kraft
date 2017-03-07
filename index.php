@@ -35,7 +35,7 @@
 
 <body>
 
-<div class="container">
+<div class="">
     <?php //include("header.php");?>
 
     <?php include("main.php");?>
