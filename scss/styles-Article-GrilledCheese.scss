@@ -243,11 +243,16 @@ body {
 
                         td {
                             border-right: 1px solid gray;
+                            border-bottom: 1px solid #faeee4;
                             padding: 5px;
                         }
 
                         td:last-child {
                             border-right: 0px;
+                        }
+
+                        .odd-row {
+                            background-color: #faeee4;
                         }
                     }
                 }

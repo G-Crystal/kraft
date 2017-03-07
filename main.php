@@ -166,7 +166,7 @@
                             <td><?php echo tomato;?></td>
                             <td><?php echo Kraft_Thousand_Island_Dressing;?></td>
                         </tr>
-                        <tr>
+                        <tr class="odd-row">
                             <td class="text-red"><?php echo Creamy_Jalapeño;?></td>
                             <td><?php echo Kraft_Singles;?></td>
                             <td><?php echo bacon;?></td>
@@ -180,7 +180,7 @@
                             <td><?php echo kimchi;?></td>
                             <td><?php echo Richardson_Ultimate_Barbecue_Korean;?></td>
                         </tr>
-                        <tr>
+                        <tr class="odd-row">
                             <td class="text-red"><?php echo Pizza_Style;?></td>
                             <td><?php echo Casino_Mozzarella_Slice;?></td>
                             <td><?php echo pepperoni;?></td>
@@ -194,7 +194,7 @@
                             <td><?php echo shaved_brussels_sprouts;?></td>
                             <td><?php echo Richardson_Ultimate_Sriracha_Sauce;?></td>
                         </tr>
-                        <tr>
+                        <tr class="odd-row">
                             <td class="text-red"><?php echo Philly_Style;?></td>
                             <td><?php echo Kraft_Provolone_Slice;?></td>
                             <td><?php echo shaved_steak;?></td>
@@ -208,7 +208,7 @@
                             <td><?php echo tomato;?></td>
                             <td><?php echo mashed_avocado;?></td>
                         </tr>
-                        <tr>
+                        <tr class="odd-row">
                             <td class="text-red"><?php echo Brie_Strawberry;?></td>
                             <td><?php echo brie_cheese;?></td>
                             <td><?php echo sliced_strawberries;?></td>
@@ -222,7 +222,7 @@
                             <td><?php echo tomato;?></td>
                             <td><?php echo Richardson_Ultimate_Medium_Wing_Sauce;?></td>
                         </tr>
-                        <tr>
+                        <tr class="odd-row">
                             <td class="text-red"><?php echo Sunday_Supper;?></td>
                             <td><?php echo Casino_Swiss_Slice;?></td>
                             <td><?php echo sautéed_mushrooms;?></td>
