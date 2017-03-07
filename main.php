@@ -262,6 +262,58 @@
         </div>
 
         <div id="section-10" class="col-xs-12">
+            <div class="col-xs-12 display-table">
+                <div class="padding-10-10 text-size-16">
+                    <span><?php echo Across_Canada_chefs_are_showcasing_the_glory_of_grilled_cheese_calling_on_high_impact_ingredients_to_elevate_this_classic_to_premium_status;?></span>
+                </div>
+            </div>
+
+            <div class="col-xs-12 display-table odd-row">
+                <div class="col-sm-6 col-xs-12 padding-10-10 showcase-div">
+                    <div class="text-red"><b><?php echo Chicken_Club;?></b></div>
+                    <div class=""><?php echo Mozzarella_herb_and_garlic_cream_cheese_crispy_chicken_bacon_chipotle_aïoli_spinach_and_herbed_tomato;?></div>
+                </div>
+                <div class="col-sm-6 col-xs-12 padding-10-10 showcase-div">
+                    <img class="" src="<?php echo IMAGE_URL; ?>/red_arrow_1.png" border="0" />
+                    <span><b><?php echo MELT_wich_Food_Co_multiple_locations;?></b></span>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+
+            <div class="col-xs-12 display-table">
+                <div class="col-sm-6 col-xs-12 padding-10-10 showcase-div">
+                    <div class="text-red"><b><?php echo Yes_Ma_am;?></b></div>
+                    <div class=""><?php echo Mac_cheese_and_American_cheese_on_sourdough_bread;?></div>
+                </div>
+                <div class="col-sm-6 col-xs-12 padding-10-10 showcase-div">
+                    <img class="" src="<?php echo IMAGE_URL; ?>/red_arrow_2.png" border="0" />
+                    <span><b><?php echo Hi_Five_Vancouver;?></b></span>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+
+            <div class="col-xs-12 display-table odd-row">
+                <div class="col-sm-6 col-xs-12 padding-10-10 showcase-div">
+                    <div class="text-red"><b><?php echo The_Cartel;?></b></div>
+                    <div class=""><?php echo Housemade_guacamole_and_corn__roasted_chicken__banana_peppers_and_jalapeño_Havarti;?></div>
+                </div>
+                <div class="col-sm-6 col-xs-12 padding-10-10 showcase-div">
+                    <img class="" src="<?php echo IMAGE_URL; ?>/red_arrow_1.png" border="0" />
+                    <span><b><?php echo Cu_the_Cheese_Toronto;?></b></span>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+
+            <div class="col-xs-12 display-table">
+                <div class="col-sm-6 col-xs-12 padding-10-10 showcase-div">
+                    <div class="text-red"><b><?php echo Little_Kay_s_Favourite_Grilled_Cheese_Sandwich;?></b></div>
+                    <div class=""><?php echo Grilled_sourdough_with_apple_tomato_relish_aged_cheddar_and_mozzarella;?></div>
+                </div>
+                <div class="col-sm-6 col-xs-12 padding-10-10 showcase-div">
+                    <img class="" src="<?php echo IMAGE_URL; ?>/red_arrow_2.png" border="0" />
+                    <span><b><?php echo Mildred_s_Temple_Kitchen_Toronto;?></b></span>
+                </div>
+            </div>
         </div>
     </div>
 </div>

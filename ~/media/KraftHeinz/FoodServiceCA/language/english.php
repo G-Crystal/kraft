@@ -151,4 +151,17 @@ define("MENU_SIGHTNING", "MENU SIGHTNING");
 
 /* Article 9 */
 
+define("Across_Canada_chefs_are_showcasing_the_glory_of_grilled_cheese_calling_on_high_impact_ingredients_to_elevate_this_classic_to_premium_status", "Across Canada, chefs are showcasing the glory of grilled cheese, calling on high-impact ingredients to elevate this classic to premium status.");
+define("Chicken_Club", "Chicken Club");
+define("Mozzarella_herb_and_garlic_cream_cheese_crispy_chicken_bacon_chipotle_aïoli_spinach_and_herbed_tomato", "Mozzarella, herb and garlic cream cheese, crispy chicken, bacon, chipotle aïoli, spinach and herbed tomato");
+define("MELT_wich_Food_Co_multiple_locations", "<u>MELT\"wich\" Food Co.</u>, multiple locations");
+define("Yes_Ma_am", "Yes Ma’am");
+define("Mac_cheese_and_American_cheese_on_sourdough_bread", "Mac & cheese and American cheese on sourdough bread");
+define("Hi_Five_Vancouver", "<u>Hi-Five</u>, Vancouver");
+define("The_Cartel", "The Cartel");
+define("Housemade_guacamole_and_corn__roasted_chicken__banana_peppers_and_jalapeño_Havarti", "Housemade guacamole and corn, roasted chicken, banana peppers and jalapeño Havarti");
+define("Cu_the_Cheese_Toronto", "<u>Cut the Cheese</u>, Toronto");
+define("Little_Kay_s_Favourite_Grilled_Cheese_Sandwich", "Little Kay\’s Favourite Grilled Cheese Sandwich");
+define("Grilled_sourdough_with_apple_tomato_relish_aged_cheddar_and_mozzarella", "Grilled sourdough with apple-tomato relish, aged cheddar and mozzarella");
+define("Mildred_s_Temple_Kitchen_Toronto", "<u>Mildred\’s Temple Kitchen</u>, Toronto");
 define("", "");
