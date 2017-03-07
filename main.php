@@ -62,12 +62,25 @@
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_habanero.png" border="0" />
                 </div>
-                <div class="cleardiv hidden-lg hidden-md"></div>
+                <div class="clearfix hidden-lg hidden-md"></div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_module.png" border="0" />
                     <span><?php echo Moroccan_Chicken_Grilled_Cheese;?><span>
                 </div>
-                <div class="cleardiv hidden-sm hidden-xs"></div>
+                <div class="clearfix hidden-sm hidden-xs"></div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_steakbleu.png" border="0" />
+                    <span><?php echo Steak_Bleu_Grilled_Cheese_with_Poached_Pear_Salad;?><span>
+                </div>
+                <div class="clearfix hidden-lg hidden-md"></div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_smoky.png" border="0" />
+                    <span><?php echo Smoky_Philly_Style_Grilled_Cheese;?><span>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_comfort.png" border="0" />
+                </div>
+                <div class="clearfix"></div>
             </div>
         </div>
 

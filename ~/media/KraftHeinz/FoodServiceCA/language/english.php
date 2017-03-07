@@ -42,5 +42,7 @@ define("by_this_hot_foodservice_trend_with_delicious_takes_on_the_iconic_grilled
 define("GET", "GET");
 define("INSPIRED", " INSPIRED");
 define("Chorizo_Habanero_Grilled_Cheese", "Chorizo & Habanero Grilled Cheese");
+define("Steak_Bleu_Grilled_Cheese_with_Poached_Pear_Salad", "Steak & Bleu Grilled Cheese with Poached Pear Salad");
+define("Smoky_Philly_Style_Grilled_Cheese", "Smoky Philly-Style Grilled Cheese");
 define("", "");
 
