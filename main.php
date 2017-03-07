@@ -149,6 +149,92 @@
         </div>
 
         <div id="section-7" class="col-xs-12">
+            <div class="detail-div">
+                <table class="detail-table text-center table table-responsive">
+                    <thead>
+                        <td><?php echo SANDWICH;?></td>
+                        <td><?php echo CHEESE;?></td>
+                        <td><?php echo PLUS1;?></td>
+                        <td><?php echo PLUS2;?></td>
+                        <td><?php echo PLUS3;?></td>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="text-red"><?php echo HAM_CHEDDAR;?></td>
+                            <td><?php echo Cracker_Barrel_Mild_Cheddar_Slice;?></td>
+                            <td><?php echo ham;?></td>
+                            <td><?php echo tomato;?></td>
+                            <td><?php echo Kraft_Thousand_Island_Dressing;?></td>
+                        </tr>
+                        <tr>
+                            <td class="text-red"><?php echo Creamy_Jalapeño;?></td>
+                            <td><?php echo Kraft_Singles;?></td>
+                            <td><?php echo bacon;?></td>
+                            <td><?php echo jalapeño_peppers;?></td>
+                            <td><?php echo Philadelphia_Cream_Cheese;?></td>
+                        </tr>
+                        <tr>
+                            <td class="text-red"><?php echo Kimchi_Pulled_Pork;?></td>
+                            <td><?php echo Kraft_Tex_Mex_Shreds;?></td>
+                            <td><?php echo pulled_pork;?></td>
+                            <td><?php echo kimchi;?></td>
+                            <td><?php echo Richardson_Ultimate_Barbecue_Korean;?></td>
+                        </tr>
+                        <tr>
+                            <td class="text-red"><?php echo Pizza_Style;?></td>
+                            <td><?php echo Casino_Mozzarella_Slice;?></td>
+                            <td><?php echo pepperoni;?></td>
+                            <td><?php echo basil;?></td>
+                            <td><?php echo Escalon_Allegro_Classic_Italian_Pizza_Sauces;?></td>
+                        </tr>
+                        <tr>
+                            <td class="text-red"><?php echo Seriously_Spicy;?></td>
+                            <td><?php echo Kraft_Habanero_Heat_Slice;?></td>
+                            <td><?php echo bacon;?></td>
+                            <td><?php echo shaved_brussels_sprouts;?></td>
+                            <td><?php echo Richardson_Ultimate_Sriracha_Sauce;?></td>
+                        </tr>
+                        <tr>
+                            <td class="text-red"><?php echo Philly_Style;?></td>
+                            <td><?php echo Kraft_Provolone_Slice;?></td>
+                            <td><?php echo shaved_steak;?></td>
+                            <td><?php echo sautéed_peppers_and_onions;?></td>
+                            <td><?php echo Kraft_Cheez_Whiz;?></td>
+                        </tr>
+                        <tr>
+                            <td class="text-red"><?php echo California_Dreamin;?></td>
+                            <td><?php echo Cracker_Barrel_Mild_Cheddar_Slice;?></td>
+                            <td><?php echo bacon;?></td>
+                            <td><?php echo tomato;?></td>
+                            <td><?php echo mashed_avocado;?></td>
+                        </tr>
+                        <tr>
+                            <td class="text-red"><?php echo Brie_Strawberry;?></td>
+                            <td><?php echo brie_cheese;?></td>
+                            <td><?php echo sliced_strawberries;?></td>
+                            <td><?php echo fresh_mint;?></td>
+                            <td><?php echo Kraft_Pure_Strawberry_Jam_with_Pectin;?></td>
+                        </tr>
+                        <tr>
+                            <td class="text-red"><?php echo Buffalo_Chicken;?></td>
+                            <td><?php echo Kraft_Monterey_Jack_Slice;?></td>
+                            <td><?php echo grilled_chicken;?></td>
+                            <td><?php echo tomato;?></td>
+                            <td><?php echo Richardson_Ultimate_Medium_Wing_Sauce;?></td>
+                        </tr>
+                        <tr>
+                            <td class="text-red"><?php echo Sunday_Supper;?></td>
+                            <td><?php echo Casino_Swiss_Slice;?></td>
+                            <td><?php echo sautéed_mushrooms;?></td>
+                            <td><?php echo caramelized_onions;?></td>
+                            <td><?php echo horseradish_mayo;?></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div id="section-8" class="col-xs-12">
         </div>
     </div>
 </div>

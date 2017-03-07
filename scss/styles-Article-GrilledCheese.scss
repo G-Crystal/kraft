@@ -222,6 +222,32 @@ body {
                     margin-bottom: 15px;
                 }
             }
+
+            #section-7 {
+                margin-bottom: 15px;
+
+                .detail-div {
+                    overflow: auto;
+
+                    .detail-table {
+                        padding: 5px;
+                        width: 100%;
+
+                        thead {
+                            background-color: #fcce39;
+                        }
+
+                        td {
+                            border-right: 1px solid gray;
+                            padding: 5px;
+                        }
+
+                        td:last-child {
+                            border-right: 0px;
+                        }
+                    }
+                }
+            }
         }
     }
 }
