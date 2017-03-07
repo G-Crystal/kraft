@@ -53,7 +53,25 @@
             </div>
         </div>
 
-        <div id="section-4 col-xs-12">
+        <div id="section-4" class="col-xs-12">
+            <div class="row">
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_chrizo.png" border="0" />
+                    <span><?php echo Chorizo_Habanero_Grilled_Cheese;?><span>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_habanero.png" border="0" />
+                </div>
+                <div class="cleardiv hidden-lg hidden-md"></div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_module.png" border="0" />
+                    <span><?php echo Moroccan_Chicken_Grilled_Cheese;?><span>
+                </div>
+                <div class="cleardiv hidden-sm hidden-xs"></div>
+            </div>
+        </div>
+
+        <div id="section-5" class="col-xs-12">
         </div>
     </div>
 </div>

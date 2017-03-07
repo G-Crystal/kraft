@@ -125,6 +125,7 @@ body {
                     background-image: url('../images/inspired_bg.png');
                     padding-top: 10px;
                     padding-bottom: 10px;
+                    margin-bottom: 15px;
 
                     .header-wrapper {
                         overflow: hidden;
@@ -162,6 +163,20 @@ body {
                             }
                         }
                     }
+                }
+            }
+
+            #section-4 {
+                .full-img {
+                    width: 100%;
+                    height: auto;
+                    margin-top: 15px;
+                    margin-bottom: 5px;
+                }
+
+                span {
+                    color: #10578a;
+                    text-decoration: underline;
                 }
             }
         }

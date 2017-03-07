@@ -41,5 +41,6 @@ define("Up_your_menu_offerings_with_these_unique_twists", "Up your menu offering
 define("by_this_hot_foodservice_trend_with_delicious_takes_on_the_iconic_grilled_cheese", "by this hot foodservice trend with delicious takes on the iconic grilled cheese.");
 define("GET", "GET");
 define("INSPIRED", " INSPIRED");
+define("Chorizo_Habanero_Grilled_Cheese", "Chorizo & Habanero Grilled Cheese");
 define("", "");
 
