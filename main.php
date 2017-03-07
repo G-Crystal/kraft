@@ -67,7 +67,9 @@
                     <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_module.png" border="0" />
                     <span><?php echo Moroccan_Chicken_Grilled_Cheese;?><span>
                 </div>
+
                 <div class="clearfix hidden-sm hidden-xs"></div>
+
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_steakbleu.png" border="0" />
                     <span><?php echo Steak_Bleu_Grilled_Cheese_with_Poached_Pear_Salad;?><span>
@@ -80,7 +82,36 @@
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_comfort.png" border="0" />
                 </div>
+
                 <div class="clearfix"></div>
+
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_chicken.png" border="0" />
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_grilledchicken.png" border="0" />
+                    <span><?php echo Grilled_Chicken_Caesar_Wafflewich;?><span>
+                </div>
+                <div class="clearfix hidden-lg hidden-md"></div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_cubanchicken.png" border="0" />
+                    <span><?php echo Cuban_Chicken_Grilled_Cheese;?><span>
+                </div>
+
+                <div class="clearfix hidden-sm hidden-xs"></div>
+
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_steakbleu.png" border="0" />
+                    <span><?php echo Grilled_Double_Cheese_Sandwich;?><span>
+                </div>
+                <div class="clearfix hidden-lg hidden-md"></div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_smoky.png" border="0" />
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_comfort.png" border="0" />
+                    <span><?php echo Grilled_Cheese_Vegetable_Sandwich;?><span>
+                </div>
             </div>
         </div>
 

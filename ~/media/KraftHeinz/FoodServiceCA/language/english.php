@@ -44,5 +44,9 @@ define("INSPIRED", " INSPIRED");
 define("Chorizo_Habanero_Grilled_Cheese", "Chorizo & Habanero Grilled Cheese");
 define("Steak_Bleu_Grilled_Cheese_with_Poached_Pear_Salad", "Steak & Bleu Grilled Cheese with Poached Pear Salad");
 define("Smoky_Philly_Style_Grilled_Cheese", "Smoky Philly-Style Grilled Cheese");
+define("Grilled_Chicken_Caesar_Wafflewich", "Grilled Chicken Caesar \"Wafflewich\"");
+define("Cuban_Chicken_Grilled_Cheese", "Cuban Chicken Grilled Cheese");
+define("Grilled_Double_Cheese_Sandwich", "Grilled Double-Cheese Sandwich");
+define("Grilled_Cheese_Vegetable_Sandwich", "Grilled Cheese & Vegetable Sandwich");
 define("", "");
 
