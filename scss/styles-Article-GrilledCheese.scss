@@ -19,6 +19,10 @@ $break-large: 768px;
 body {
     font-family: 'Open Sans', sans-serif;
 
+    .text-red {
+        color: #c42c29;
+    }
+
     .text-blue {
         color: #10578a;
     }
@@ -33,6 +37,10 @@ body {
 
     .text-white {
         color: #ffffff;
+    }
+
+    .text-size-48 {
+        font-size: 48px;
     }
 
     .text-size-30 {
@@ -53,6 +61,18 @@ body {
 
     .margin-10-0 {
         margin: 10px 0;
+    }
+
+    .display-table {
+        display: table;
+    }
+
+    .display-table-cell {
+        display: table-cell;
+    }
+
+    .vertical-middle {
+        vertical-align: middle;
     }
 
     .header-div {
@@ -183,6 +203,12 @@ body {
             }
 
             #section-5 {
+                .main-gadget-2 {
+                    background-color: #faeee4;
+                }
+            }
+
+            #section-6 {
             }
         }
     }

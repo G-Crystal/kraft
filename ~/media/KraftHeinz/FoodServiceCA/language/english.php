@@ -48,5 +48,9 @@ define("Grilled_Chicken_Caesar_Wafflewich", "Grilled Chicken Caesar \"Wafflewich
 define("Cuban_Chicken_Grilled_Cheese", "Cuban Chicken Grilled Cheese");
 define("Grilled_Double_Cheese_Sandwich", "Grilled Double-Cheese Sandwich");
 define("Grilled_Cheese_Vegetable_Sandwich", "Grilled Cheese & Vegetable Sandwich");
+define("cheese", "cheese");
+define("IS_EVERYTHING", " IS EVERYTHING");
+define("percent77", "77%");
+define("of_Canadian_consumers_say_cheese_quality_is_important_in_creating_a_good_sandwich", "of Canadian consumers say cheese quality is important in creating a good sandwich<sup>1</sup>. Make sure you menu the best.");
 define("", "");
 

@@ -116,6 +116,28 @@
         </div>
 
         <div id="section-5" class="col-xs-12">
+            <div class="main-gadget-2 display-table col-xs-12">
+                <div class="vertical-middle display-table-cell">
+                    <div class="text-size-30">
+                        <img class="pan-img hidden-xs" src="<?php echo IMAGE_URL; ?>/cheese.png" border="0" />
+                        <span class="text-red"><b><em><?php echo cheese;?></em></b></span>
+                        <span><?php echo IS_EVERYTHING;?></span>
+                    </div>
+                    <div class="display-table">
+                        <div class="display-table-cell text-red text-size-48"><strong><?php echo percent77;?></strong></div>
+                        <div class="display-table-cell vertical-middle"><?php echo of_Canadian_consumers_say_cheese_quality_is_important_in_creating_a_good_sandwich;?></div>
+                    </div>
+                </div>
+                <div class="display-table-cell">
+                    <img class="pan-img hidden-xs" src="<?php echo IMAGE_URL; ?>/stamp.png" border="0" />
+                </div>
+            </div>
+        </div>
+
+        <div id="section-6" class="col-xs-12">
+        </div>
+
+        <div id="section-7" class="col-xs-12">
         </div>
     </div>
 </div>
