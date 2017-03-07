@@ -147,4 +147,8 @@ define("This_Grilled_Cheese_Tomato_Soup_Appetizer_is_perfect_on_your_snacks_or_a
 
 /* Article 8 */
 
+define("MENU_SIGHTNING", "MENU SIGHTNING");
+
+/* Article 9 */
+
 define("", "");

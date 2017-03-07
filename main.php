@@ -253,6 +253,15 @@
         </div>
 
         <div id="section-9" class="col-xs-12">
+            <div class="sightning-div col-xs-12">
+                <div class="text-size-30">
+                    <img class="" src="<?php echo IMAGE_URL; ?>/magnify.png" border="0" />
+                    <span class="text-white"><?php echo MENU_SIGHTNING;?></span>
+                </div>
+            </div>
+        </div>
+
+        <div id="section-10" class="col-xs-12">
         </div>
     </div>
 </div>
