@@ -237,7 +237,7 @@
         <div id="section-8" class="col-xs-12">
             <div class="main-gadget-3 display-table">
                 <div class="display-table-cell">
-                    <img class="hidden-xs" src="<?php echo IMAGE_URL; ?>/grilled_cheese.png" border="0" />
+                    <img class="shadow-img hidden-xs" src="<?php echo IMAGE_URL; ?>/grilled_cheese.png" border="0" />
                 </div>
                 <div class="vertical-middle display-table-cell">
                     <div class="text-size-30">
