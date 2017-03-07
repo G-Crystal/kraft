@@ -52,5 +52,8 @@ define("cheese", "cheese");
 define("IS_EVERYTHING", " IS EVERYTHING");
 define("percent77", "77%");
 define("of_Canadian_consumers_say_cheese_quality_is_important_in_creating_a_good_sandwich", "of Canadian consumers say cheese quality is important in creating a good sandwich<sup>1</sup>. Make sure you menu the best.");
+define("MODERN_GRILLED_CHEESES", "MODERN GRILLED CHEESES - ");
+define("EASY_AS_1_2_3", "EASY AS 1-2-3");
+define("We_tapped_our_grilled_cheese_experts_at_the_Kraft_Heinz_Culinary_Centre_for_ideas_on_which_cheeses_work_best_with_different_modern_builds", "We tapped our grilled cheese experts at the <em>Kraft Heinz Culinary Centre</em> for ideas on which cheeses work best with different modern builds.");
 define("", "");
 

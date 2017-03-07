@@ -135,6 +135,17 @@
         </div>
 
         <div id="section-6" class="col-xs-12">
+            <div class="modern-div col-xs-12">
+                <div class="text-center text-size-30">
+                    <div class="header-wrapper">
+                        <span class="text-yellow"><?php echo MODERN_GRILLED_CHEESES;?></span>
+                        <span class="text-white"><?php echo EASY_AS_1_2_3;?></span>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="text-white text-size-16"><?php echo We_tapped_our_grilled_cheese_experts_at_the_Kraft_Heinz_Culinary_Centre_for_ideas_on_which_cheeses_work_best_with_different_modern_builds;?></span>
+                </div>
+            </div>
         </div>
 
         <div id="section-7" class="col-xs-12">

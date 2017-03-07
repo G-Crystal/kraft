@@ -203,12 +203,24 @@ body {
             }
 
             #section-5 {
+                margin-bottom: 15px;
+                
                 .main-gadget-2 {
                     background-color: #faeee4;
+                    padding-top: 10px;
+                    padding-bottom: 10px;
                 }
             }
 
             #section-6 {
+                margin-bottom: 15px;
+
+                .modern-div {
+                    background-image: url('../images/inspired_bg.png');
+                    padding-top: 10px;
+                    padding-bottom: 10px;
+                    margin-bottom: 15px;
+                }
             }
         }
     }
