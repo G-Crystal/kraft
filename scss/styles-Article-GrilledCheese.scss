@@ -19,6 +19,14 @@ $break-large: 768px;
 body {
     font-family: 'Open Sans', sans-serif;
 
+    .text-blue {
+        color: #10578a;
+    }
+
+    .text-yellow {
+        color: #f3b717;
+    }
+
     .header-div {
         .navbar-header {
             .logo-div {
@@ -51,6 +59,32 @@ body {
             
             @include respond-to(small-screens) {
                 float: left !important;
+            }
+        }
+    }
+
+    .main-div {
+        .content-div {
+            .sub-title {
+                font-size: 22px;
+                font-weight: bold;
+            }
+
+            .full-img {
+                width: 100%;
+                height: auto;
+            }
+
+            .margin-10-0 {
+                margin: 10px 0;
+            }
+
+            .main-gadget-1 {
+                background-color: #faeee4;
+
+                .grilled_title {
+                    font-size: 35px;
+                }
             }
         }
     }
