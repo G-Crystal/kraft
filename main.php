@@ -101,16 +101,16 @@
                 <div class="clearfix hidden-sm hidden-xs"></div>
 
                 <div class="col-md-4 col-sm-6 col-xs-12">
-                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_steakbleu.png" border="0" />
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_grilleddouble.png" border="0" />
                     <span><?php echo Grilled_Double_Cheese_Sandwich;?><span>
                 </div>
                 <div class="clearfix hidden-lg hidden-md"></div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
-                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_smoky.png" border="0" />
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_vegetarian.png" border="0" />
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
-                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_comfort.png" border="0" />
-                    <span><?php echo Grilled_Cheese_Vegetable_Sandwich;?><span>
+                    <img class="full-img" src="<?php echo IMAGE_URL; ?>/wr0217_kfs_grilledcheese.png" border="0" />
+                    <span><?php echo Grilled_Cheese_Vegetable_Sandwich;?><img class="sunny-img" src="<?php echo IMAGE_URL; ?>/sunny.png" border="0" /><span>                    
                 </div>
             </div>
         </div>
