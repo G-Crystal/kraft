@@ -6,7 +6,7 @@ $break-large: 768px;
 
 @mixin respond-to($media) {
     @if $media == handhelds {
-        @media only screen and (max-width: #{$break-large - 1}) { @content; }
+        @media only screen and (max-width: #{$break-small - 1}) { @content; }
     }
     @else if $media == ex-small-screens {
         @media only screen and (min-width: #{$break-small}) and (max-width: #{$break-medium - 1}) { @content; }
@@ -25,6 +25,34 @@ body {
 
     .text-yellow {
         color: #f3b717;
+    }
+
+    .text-light-yellow {
+        color: #fed175;
+    }
+
+    .text-white {
+        color: #ffffff;
+    }
+
+    .text-size-30 {
+        font-size: 30px;
+    }
+
+    .text-size-22 {
+        font-size: 22px;
+    }
+
+    .text-size-16 {
+        font-size: 16px;
+    }
+
+    .text-size-12 {
+        font-size: 16px;
+    }
+
+    .margin-10-0 {
+        margin: 10px 0;
     }
 
     .header-div {
@@ -65,39 +93,77 @@ body {
 
     .main-div {
         .content-div {
-            .sub-title {
-                font-size: 22px;
-                font-weight: bold;
-            }
-
-            .full-img {
-                width: 100%;
-                height: auto;
-            }
-
-            .margin-10-0 {
-                margin: 10px 0;
-            }
-
-            .main-gadget-1 {
-                background-color: #faeee4;
-                margin: 20px 0;
-
-                .grilled_title {
-                    font-size: 30px;
+            #section-1 {                
+                .sub-title {
+                    font-weight: bold;
                 }
 
-                .grilled_description {
-                    font-size: 16px;
+                .full-img {
+                    width: 100%;
+                    height: auto;
                 }
+            }
 
-                .pan-img {
-                    position: relative;
-                    top: -115px;
-                    float: right;
+            #section-2 {
+                height: 150px;
+
+                .main-gadget-1 {
+                    background-color: #faeee4;
+                    margin: 15px 0;
+                    padding: 5px 0 5px 15px;
+
+                    .pan-img {
+                        position: relative;
+                        top: -115px;
+                        float: right;
+                    }
+                }
+            }
+
+            #section-3 {
+                .inspired-div {
+                    background-image: url('../images/inspired_bg.png');
+                    padding-top: 10px;
+                    padding-bottom: 10px;
+
+                    .header-wrapper {
+                        overflow: hidden;
+                        position: relative;
+
+                        &:before {
+                            content: ' ';
+                            width: 36%;
+                            position: absolute;
+                            height: 1px;
+                            background: #f3b717;
+                            top: 22px;
+                            margin-left: calc(-40% - 10px);
+            
+                            @include respond-to(ex-small-screens) {
+                                display: none;
+                            }
+            
+                            @include respond-to(small-screens) {
+                                width: 35%;
+                            }
+                        }
+
+                        &:after {
+                            content: ' ';
+                            width: 50%;
+                            position: absolute;
+                            height: 1px;
+                            background: #f3b717;
+                            top: 22px;
+                            margin-left: 40px;
+            
+                            @include respond-to(ex-small-screens) {
+                                display: none;
+                            }
+                        }
+                    }
                 }
             }
         }
     }
 }
-

@@ -3,11 +3,11 @@
 ?>
 
 <div class="main-div">
-    <div class="content-div">
-        <div id="section-1 col-xs-12">
+    <div class="content-div row">
+        <div id="section-1" class="col-xs-12">
             <div class="row">
                 <div class="col-sm-6 col-xs-12">
-                    <div class="sub-title text-blue">
+                    <div class="text-size-22 text-blue">
                         <?php echo The_Ultimate_Grilled_Cheese;?>
                     </div>
                     <div class="text-blue">
@@ -30,16 +30,27 @@
             </div>
         </div>
 
-        <div id="section-2 col-xs-12">
+        <div id="section-2" class="col-xs-12">
             <div class="main-gadget-1">
-                <div class="grilled_title"><span><b><?php echo APRIL;?></b><?php echo IS_NATIONAL;?></span></div>
-                <div class="grilled_title"><span class="text-yellow"><?php echo GRILLED_CHEESE;?></span><span><?php echo MONTH;?></span></div>
-                <div class="grilled_description"><span><?php echo Up_your_menu_offerings_with_these_unique_twists;?></span></div>
+                <div class="text-size-30"><span><b><?php echo APRIL;?></b><?php echo IS_NATIONAL;?></span></div>
+                <div class="text-size-30"><span class="text-yellow"><?php echo GRILLED_CHEESE;?></span><span><?php echo MONTH;?></span></div>
+                <div class="text-size-16"><span><?php echo Up_your_menu_offerings_with_these_unique_twists;?></span></div>
                 <img class="pan-img hidden-xs" src="<?php echo IMAGE_URL; ?>/pan.png" border="0" />
             </div>
         </div>
 
-        <div id="section-3 col-xs-12">
+        <div id="section-3" class="col-xs-12">
+            <div class="inspired-div col-xs-12">
+                <div class="text-center text-size-30">
+                    <div class="header-wrapper">
+                        <span class="text-light-yellow"><?php echo GET;?></span>
+                        <span class="text-yellow"><?php echo INSPIRED;?></span>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <span class="text-white text-size-16"><?php echo by_this_hot_foodservice_trend_with_delicious_takes_on_the_iconic_grilled_cheese;?></span>
+                </div>
+            </div>
         </div>
 
         <div id="section-4 col-xs-12">

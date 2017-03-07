@@ -38,5 +38,8 @@ define("IS_NATIONAL", " IS NATIONAL");
 define("GRILLED_CHEESE", "GRILLED CHEESE ");
 define("MONTH", "MONTH");
 define("Up_your_menu_offerings_with_these_unique_twists", "Up your menu offerings with these unique twists.");
+define("by_this_hot_foodservice_trend_with_delicious_takes_on_the_iconic_grilled_cheese", "by this hot foodservice trend with delicious takes on the iconic grilled cheese.");
+define("GET", "GET");
+define("INSPIRED", " INSPIRED");
 define("", "");
 
