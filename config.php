@@ -1,10 +1,10 @@
 <?php 
 
-    define("SITE_URL", "/");
+    define("SITE_URL", "");
     define("ASSETS_URL", SITE_URL."~/media/KraftHeinz/FoodServiceCA");
     define("IMAGE_URL", ASSETS_URL."/Files/images");
     define("SITE_LANGUAGE", "english");
-   
+
     $lang = isset($_COOKIE['site_lang']) ? $_COOKIE['site_lang'] : 'english';
 
     if (isset($lang) && !empty($lang) && file_exists(ASSETS_URL."/language/".$lang.".php"))
